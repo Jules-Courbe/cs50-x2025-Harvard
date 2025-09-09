@@ -1,88 +1,130 @@
-🧠 CS50: Introduction to Computer Science – Harvard University
+CS50x - 2023
+General Information
 
-Bienvenue sur mon dépôt GitHub dédié à CS50, le célèbre cours d'introduction à l'informatique proposé par l’Université de Harvard.
+CS50: Introduction to Computer Science
 
-🎓 À propos du cours
+CS50 Certificate
 
-CS50x
- est un cours gratuit et ouvert à tous qui couvre les bases de l’informatique et de la programmation. Il est conçu pour les débutants comme pour les développeurs souhaitant renforcer leurs bases.
+first!
 
-Le cours est enseigné par le professeur David J. Malan et aborde de nombreux concepts fondamentaux :
+Course description
+This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x , CS50, is Harvard's largest course.
 
-Algorithmes
+Topics
+Abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development.
 
-Structures de données
+Languages
+C, Python, SQL, JavaScript, CSS, HTML
 
-Mémoire
+Objectives
+A broad and robust understanding of computer science and programming
 
-Sécurité
+How to think algorithmically and solve programming problems efficiently
 
-Web
+Concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development
 
-Développement logiciel
+Familiarity with a number of languages, including C, Python, SQL, and JavaScript plus CSS and HTML
 
-🧩 Technologies et langages abordés
+How to engage with a vibrant community of like-minded learners from all levels of experience
 
-C
+How to develop and present a final programming project to your peers
 
-Python
+50!
 
-SQL
+Practice Problems / Labs / Problem Sets
+Week 1 - C
 
-HTML, CSS
+Debug
+Half
+Prime
+Population Growth
+Hello
+Mario-less
+Mario-more
+Cash
+Credit
+Week 2 - Arrays
 
-JavaScript
+Hours
+N0 V0w3ls
+Password
+Scrabble
+Readability
+Bulbs
+Caesar
+Substitution
+Wordle50
+Week 3 - Algorithms
 
-Flask (framework web Python)
+Atoi
+Average High Temperatures
+Max
+Snackbar
+Sort
+Plurality
+Runoff
+Tideman
+Week 4 - Memory
 
-📂 Contenu de ce dépôt
+Bottom Up
+License
+Smiley
+Volume
+Filter-less
+Filter-more
+Recover
+Reverse
+Week 5 - Data Structures
 
-Ce dépôt contient mes solutions personnelles aux problem sets (psets) du cours :
+Trie
+Inheritance
+Speller
+Week 6 - Python
 
-Dossier	Sujet abordé
-pset0	Scratch (logique de programmation visuelle)
-pset1	C - Conditions, boucles, fonctions
-pset2	C - Tableaux, crypto, recherche
-pset3	Algorithmes de tri et de recherche
-pset4	Récursivité, récupération de fichiers
-pset5	Structures de données (listes, tables de hachage)
-pset6	Python - Conversion du C vers Python
-pset7	SQL - Base de données relationnelles
-pset8	Web - HTML, CSS, Flask, API
-final project	Mon projet final personnalisé (optionnel)
+Bank
+Figlet
+Jar
+Seven Day Averages
+Taqueria
+World Cup
+Hello
+Mario-less
+Mario-more
+Cash
+Credit
+Readability
+DNA
+Week 7 - SQL
 
-⚠️ Toutes les solutions sont uniquement à but éducatif.
-Elles ne doivent pas être utilisées pour tricher, mais pour apprendre.
+Favorites
+Hall of Prophecy
+Songs
+Movies
+Fiftyville
+Week 8 - HTML, CSS, JavaScript
 
-🧭 Objectif personnel
+Radio Shack Redo
+Trivia
+Homepage
+Week 9 - Flask
 
-J’ai entrepris ce cours pour :
+Hello, Flask
+Birthdays
+C$50 Finance
+Final Project - MyLibrary
+Useful resources
+The best video series about Singly Linked List
+5 Simple Steps for Solving Any Recursive Problem
+Realloc
+Python Tutorial
+Regular Expressions
+DB Browser for SQLite
+SQL Keywords Reference
+Bootstrap
+Documenting web technologies, including CSS, HTML, and JavaScript
+Markup Validation Service
+Tips
+Test your code with different inputs. check50 does not find some errors!
+50!
 
-Renforcer mes bases en algorithmique
-
-Apprendre le langage C et comprendre la gestion mémoire
-
-Développer des projets web avec Python et Flask
-
-Me challenger avec des exercices concrets de haut niveau
-
-📌 Remarques
-
-Le code a été réalisé dans l’environnement officiel du cours : cs50.dev
-.
-
-Chaque exercice a été testé avec les outils de vérification automatiques (check50, style50).
-
-Je respecte la politique d'intégrité académique du cours. Ce dépôt a été mis en ligne après avoir terminé le cours, ou est en privé si je suis encore inscrit.
-
-✨ Merci à l'équipe CS50
-
-“This is CS50, Harvard University's Introduction to the intellectual enterprises of computer science and the art of programming.”
-
-📎 Liens utiles
-
-🌐 Site du cours : cs50.harvard.edu/x
-
-🎥 Vidéos du cours : YouTube CS50
-
-💻 Mon environnement de travail : cs50.dev
+Please note that this repository is for storing my projects and files from Harvard University's CS50x course. It is not meant for sharing answers or encouraging academic dishonesty. If you are currently enrolled, please complete the assignments independently and refer to the course materials.
