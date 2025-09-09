@@ -2,6 +2,5 @@
 #include <stdio.h>
 int main(void)
 {
-    int x = get_int("x : ");
-    printf("%d", x);
+    printf("hello, world\n");
 }
